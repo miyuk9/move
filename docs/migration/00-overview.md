@@ -27,3 +27,4 @@ docs/migration/
 | 02 | ポスト投稿の内容相談（イケハヤさん引用） | [04-source-chats/02-post-draft-ikehaya.md](04-source-chats/02-post-draft-ikehaya.md) |
 | 03 | AIエージェント作業場所の全体設計（Cloudflare移行） | [04-source-chats/03-architecture-cloudflare.md](04-source-chats/03-architecture-cloudflare.md) |
 | 04 | Windows11の動きが重たい（メモリ） | [04-source-chats/04-windows11-slow.md](04-source-chats/04-windows11-slow.md) |
+| 05 | 「WORKのクラウド」ってどういう意味？ | [04-source-chats/05-work-cloud-meaning.md](04-source-chats/05-work-cloud-meaning.md) |

@@ -3,6 +3,15 @@
 「AIエージェントの作業場所」を統合するための、引っ越し・再構築の目標設計。
 出典: [04-source-chats/03-architecture-cloudflare.md](04-source-chats/03-architecture-cloudflare.md)
 
+## 移行元（現状のツール）
+現在使っている / 組み合わせているツール群。ここから上記の目標構成へ寄せていく。
+- **AI**: ChatGPT、Claude（＋Claude Code）
+- **ノート/思考**: Obsidian（基本はローカル）
+- **同期/保存**: GitHub、OneDrive、Google Drive
+- **その他**: Canva、Notion など（クラウドサービス）
+- 参考: クラウド＝ネット上で作業・保存、ローカル＝自分のPC内。Obsidianはローカル、OneDrive/GitHubはクラウド同期、ChatGPT/ClaudeはクラウドAI。
+- 出典: [04-source-chats/05-work-cloud-meaning.md](04-source-chats/05-work-cloud-meaning.md)
+
 ## 基本方針（役割分担）
 > **GitHubを頭、Cloudflareを神経と手足、Obsidianを思考ノートにする。**
 
