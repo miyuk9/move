@@ -16,9 +16,11 @@ docs/migration/
   02-requirements.md    ← 要件
   03-open-questions.md  ← 未解決の論点
   04-source-chats/      ← 元チャットの生ログ（原文保存）
+  05-business-context.md ← 事業の方向性・背景
 ```
 
 ## 集めた元チャット一覧
 | # | 内容 | ファイル |
 |---|------|----------|
 | 01 | GitHubリポジトリの公開設定のヘルプ | [04-source-chats/01-github-visibility.md](04-source-chats/01-github-visibility.md) |
+| 02 | ポスト投稿の内容相談（イケハヤさん引用） | [04-source-chats/02-post-draft-ikehaya.md](04-source-chats/02-post-draft-ikehaya.md) |
