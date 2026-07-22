@@ -31,3 +31,4 @@ docs/migration/
 | 05 | 「WORKのクラウド」ってどういう意味？ | [04-source-chats/05-work-cloud-meaning.md](04-source-chats/05-work-cloud-meaning.md) |
 | 06 | LINE返信（一回きりの連絡文） | [04-source-chats/06-line-reply.md](04-source-chats/06-line-reply.md) |
 | 07 | 使ったGPTs/ブックマークのGPTsを一覧にするには？ | [04-source-chats/07-gpts-inventory-howto.md](04-source-chats/07-gpts-inventory-howto.md) |
+| 08 | ChatGPTの推論（思考の深さ）設定の説明 | [04-source-chats/08-chatgpt-reasoning-setting.md](04-source-chats/08-chatgpt-reasoning-setting.md) |
