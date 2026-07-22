@@ -8,6 +8,9 @@
 - 集約した内容をもとに、プロジェクトの引っ越し / 再構築の方針を固める
 - ※ ゴールの詳細は壁打ちログを集めながら追記していく
 
+## プロジェクト通称
+- **「Life Design OS」** … 各AIに自分を理解させる共通コンテキスト＋第二の脳＋事業運営基盤の総称（チャット09で命名）。
+
 ## ディレクトリ構成
 ```
 docs/migration/
@@ -19,6 +22,7 @@ docs/migration/
   05-business-context.md ← 事業の方向性・背景
   06-architecture.md     ← 全体アーキテクチャ（目標設計）
   07-gpts-inventory.md   ← GPTs棚卸し台帳（実行用）
+  08-context-os.md       ← コンテキストOS/第二の脳（Life Design OS）
 ```
 
 ## 集めた元チャット一覧
@@ -32,3 +36,4 @@ docs/migration/
 | 06 | LINE返信（一回きりの連絡文） | [04-source-chats/06-line-reply.md](04-source-chats/06-line-reply.md) |
 | 07 | 使ったGPTs/ブックマークのGPTsを一覧にするには？ | [04-source-chats/07-gpts-inventory-howto.md](04-source-chats/07-gpts-inventory-howto.md) |
 | 08 | ChatGPTの推論（思考の深さ）設定の説明 | [04-source-chats/08-chatgpt-reasoning-setting.md](04-source-chats/08-chatgpt-reasoning-setting.md) |
+| 09 | Cowork相当機能 → my_context.md/第二の脳の自動化リサーチ | [04-source-chats/09-context-os-second-brain.md](04-source-chats/09-context-os-second-brain.md) |
