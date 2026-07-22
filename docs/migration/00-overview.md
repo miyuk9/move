@@ -18,6 +18,7 @@ docs/migration/
   04-source-chats/      ← 元チャットの生ログ（原文保存）
   05-business-context.md ← 事業の方向性・背景
   06-architecture.md     ← 全体アーキテクチャ（目標設計）
+  07-gpts-inventory.md   ← GPTs棚卸し台帳（実行用）
 ```
 
 ## 集めた元チャット一覧
@@ -29,3 +30,4 @@ docs/migration/
 | 04 | Windows11の動きが重たい（メモリ） | [04-source-chats/04-windows11-slow.md](04-source-chats/04-windows11-slow.md) |
 | 05 | 「WORKのクラウド」ってどういう意味？ | [04-source-chats/05-work-cloud-meaning.md](04-source-chats/05-work-cloud-meaning.md) |
 | 06 | LINE返信（一回きりの連絡文） | [04-source-chats/06-line-reply.md](04-source-chats/06-line-reply.md) |
+| 07 | 使ったGPTs/ブックマークのGPTsを一覧にするには？ | [04-source-chats/07-gpts-inventory-howto.md](04-source-chats/07-gpts-inventory-howto.md) |
