@@ -78,5 +78,22 @@
 【利用】発信・教材・商品設計・Life Design OS・教室運営
 ```
 
+## my_context.md の中核材料（v1.0 が既に存在）
+チャット10で「Generated Context Definition v1.0」（デジタルツイン定義）が生成済み。
+これは `01_Context/` の profile / values_vision / work_business / writing_voice / ai_working_rules に
+ほぼ直接マッピングできる**初版のたたき台**。
+→ 出典: [04-source-chats/10-digital-twin-context-v1.md](04-source-chats/10-digital-twin-context-v1.md)
+
+マッピング目安：
+| Context Definition v1.0 のセクション | 01_Context のファイル |
+|---|---|
+| S1 ミッション/価値観/原体験 | values_vision.md / profile.md |
+| S2 専門領域・方法論・対象読者 | work_business.md |
+| S3 思考プロセス・意思決定 | ai_working_rules.md（一部 profile） |
+| S4 言語スタイル・ペルソナ | writing_voice.md |
+| S5 コアコンセプト・キーワード定義 | my_context.md（索引部）＋ values_vision |
+| Digital Twin 運用ルール7項目 | ai_working_rules.md |
+
 ## 次の作業（記事＆リサーチが提案していたもの）
-- 蓄積情報から **my_context.md 初版** と Obsidian用フォルダ一式（01_Context/）を作成する。
+- 蓄積情報（特にチャット10のv1.0）から **my_context.md 初版** と Obsidian用フォルダ一式（01_Context/）を作成する。
+- ※ 材料はほぼ揃っている。壁打ち回収が一段落したら、この docs から初版を組める。

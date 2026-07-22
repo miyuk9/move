@@ -37,3 +37,4 @@ docs/migration/
 | 07 | 使ったGPTs/ブックマークのGPTsを一覧にするには？ | [04-source-chats/07-gpts-inventory-howto.md](04-source-chats/07-gpts-inventory-howto.md) |
 | 08 | ChatGPTの推論（思考の深さ）設定の説明 | [04-source-chats/08-chatgpt-reasoning-setting.md](04-source-chats/08-chatgpt-reasoning-setting.md) |
 | 09 | Cowork相当機能 → my_context.md/第二の脳の自動化リサーチ | [04-source-chats/09-context-os-second-brain.md](04-source-chats/09-context-os-second-brain.md) |
+| 10 | ★デジタルツイン定義（Generated Context Definition v1.0） | [04-source-chats/10-digital-twin-context-v1.md](04-source-chats/10-digital-twin-context-v1.md) |

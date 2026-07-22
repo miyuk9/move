@@ -24,7 +24,8 @@
 ## Q-04: 「my_context.md 初版」と 01_Context/ 一式をいつ・どこで作るか
 - リサーチの次アクションは「蓄積情報から my_context.md 初版とObsidianフォルダ一式を作成」。
 - この壁打ち回収（docs/migration/）がその材料集めになっている。回収が一段落したら初版作成へ進む。
-- 出典: [08-context-os.md](08-context-os.md)
+- **更新**: チャット10で「Generated Context Definition v1.0」が既に生成済み → my_context.md初版の中核材料が揃った。あとは 01_Context/ の各ファイルへ整形するだけ。
+- 出典: [08-context-os.md](08-context-os.md) / [04-source-chats/10-digital-twin-context-v1.md](04-source-chats/10-digital-twin-context-v1.md)
 
 ## Q-05: 各AI・IDEの役割の最終確定（Cowork / Antigravity / Codex / Claude Code）
 - チャット09（Cowork中心）と、Driveメモ「Windows作業手順」（Claude Code＋Codex＋Antigravityをスキル同期）で、登場ツールが多い。日常整理はCowork、仕組み作りはAntigravity、コードはClaude Code/Codex…と役割は概ね出ているが、実運用での住み分けを固める必要あり。
