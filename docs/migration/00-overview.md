@@ -17,6 +17,7 @@ docs/migration/
   03-open-questions.md  ← 未解決の論点
   04-source-chats/      ← 元チャットの生ログ（原文保存）
   05-business-context.md ← 事業の方向性・背景
+  06-architecture.md     ← 全体アーキテクチャ（目標設計）
 ```
 
 ## 集めた元チャット一覧
@@ -24,3 +25,4 @@ docs/migration/
 |---|------|----------|
 | 01 | GitHubリポジトリの公開設定のヘルプ | [04-source-chats/01-github-visibility.md](04-source-chats/01-github-visibility.md) |
 | 02 | ポスト投稿の内容相談（イケハヤさん引用） | [04-source-chats/02-post-draft-ikehaya.md](04-source-chats/02-post-draft-ikehaya.md) |
+| 03 | AIエージェント作業場所の全体設計（Cloudflare移行） | [04-source-chats/03-architecture-cloudflare.md](04-source-chats/03-architecture-cloudflare.md) |
