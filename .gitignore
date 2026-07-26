@@ -1,0 +1,10 @@
+# 生データ（ChatGPT/Claudeのエクスポート等）はコミットしない。
+# 個人的な会話が含まれるため、整理・抽出した結果だけを docs/ に残す方針。
+_intake/
+*.zip
+conversations.json
+chat.html
+message_feedback.json
+model_comparisons.json
+user.json
+shared_conversations.json
