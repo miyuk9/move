@@ -11,9 +11,12 @@
 ## プロジェクト通称
 - **「Life Design OS」** … 各AIに自分を理解させる共通コンテキスト＋第二の脳＋事業運営基盤の総称（チャット09で命名）。
 
+> 📍 **「今どこまで？」と思ったら [STATUS.md](STATUS.md) を見る。**
+
 ## ディレクトリ構成
 ```
 docs/migration/
+  STATUS.md             ← ★現在地（迷ったらここ）
   00-overview.md        ← 全体像・ゴール（このファイル）
   01-decisions.md       ← 決まったこと
   02-requirements.md    ← 要件
